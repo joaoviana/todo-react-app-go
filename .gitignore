@@ -23,7 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-.yarn/*
+client/.yarn/*
 !.yarn/releases
 !.yarn/plugins
 .pnp.*
